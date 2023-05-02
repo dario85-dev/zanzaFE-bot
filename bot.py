@@ -86,13 +86,49 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/zittopino.mpeg', 'rb'))
 
-@bot.message_handler(commands=['valutazionepeni'])
+@bot.message_handler(commands=['ueue'])
 def send_welcome(message):
-    bot.send_voice(message.chat.id, open('audio/valutazionepeni.mpeg', 'rb'))
-
-
-
-
+    bot.send_voice(message.chat.id, open('audio/ueue.mp3', 'rb'))
+    
+@bot.message_handler(commands=['siaentrambe'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/sì_ad_entrambe_le_domande.mp3', 'rb'))
+    
+@bot.message_handler(commands=['perche'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/perche.mp3', 'rb'))
+    
+@bot.message_handler(commands=['scek'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/risata_scek.mp3', 'rb'))
+    
+@bot.message_handler(commands=['parenzoruttato'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/parenzo_rutto.mp3', 'rb'))
+    
+@bot.message_handler(commands=['parenzoruttato'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/mi_avete _rotto.mp3', 'rb'))
+    
+@bot.message_handler(commands=['cambiatoclima'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/ecambiatoilclima.mp3', 'rb'))
+    
+@bot.message_handler(commands=['bambalau'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/bambalau.mp3', 'rb'))
+    
+@bot.message_handler(commands=['parenzoghiaccio'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/parenzo_ghiaccio.mp3', 'rb'))
+    
+@bot.message_handler(commands=['meloni'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/meloni.mp3', 'rb'))
+    
+@bot.message_handler(commands=['chepalle'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/chepalle.mp3', 'rb'))
 
 
 bot.polling()
