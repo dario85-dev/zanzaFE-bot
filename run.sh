@@ -1,5 +1,6 @@
 #!/bin/sh
 docker stop zanzabot
+docker rm zanzabot
 
 sh buildimage.sh
 
