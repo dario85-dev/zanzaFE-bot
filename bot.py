@@ -12,6 +12,10 @@ HTTP_API = os.getenv('HTTP_API')
 bot = telebot.TeleBot(HTTP_API)
 
 
+
+
+    
+
 @bot.message_handler(commands=['qualecitta'])
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/qualecitta.mpeg', 'rb'))
