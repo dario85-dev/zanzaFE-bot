@@ -32,3 +32,11 @@ pe - pe
 staggente - staggente
 cambiatoclimaparenzo - cambiatoclimaparenzo
 chissene - chissene
+finiamola - è ora di finiamola
+1vergogna - è una vergogna Brosio
+vergogna - vergogna vergogna vergogna Parenzo
+certo - certo vecchina
+sniffata - sniffata di Parenzo
+gates - Gattes
+sisisi - siii siii siii Parenzo
+
