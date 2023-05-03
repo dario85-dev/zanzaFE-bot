@@ -3,4 +3,4 @@
 
 sh buildimage.sh
 
-docker run -d --rm --name zanzabot zanzabot:latest
+docker run -d --restart --rm --name zanzabot zanzabot:latest
