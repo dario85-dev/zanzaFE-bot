@@ -154,4 +154,37 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/chissene.mp3', 'rb'))
     
+@bot.message_handler(commands=['vergogna'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/vergogna.mp3', 'rb'))
+        
+@bot.message_handler(commands=['basta'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/basta.mp3', 'rb'))
+ 
+@bot.message_handler(commands=['finiamola'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/finiamola.mp3', 'rb'))
+    
+@bot.message_handler(commands=['sisisi'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/sisisi.mp3', 'rb'))
+    
+@bot.message_handler(commands=['gates'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/gates.mp3', 'rb'))
+      
+@bot.message_handler(commands=['1vergogna'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/una_vergogna.mp3', 'rb'))
+    
+@bot.message_handler(commands=['certo'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/certo.mp3', 'rb'))
+    
+@bot.message_handler(commands=['sniffata'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/sniiffata.mp3', 'rb'))
+    
+    
 bot.polling()
