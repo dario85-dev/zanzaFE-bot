@@ -166,10 +166,6 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/finiamola.mp3', 'rb'))
     
-@bot.message_handler(commands=['sisisi'])
-def send_welcome(message):
-    bot.send_voice(message.chat.id, open('audio/sisisi.mp3', 'rb'))
-    
 @bot.message_handler(commands=['gates'])
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/gates.mp3', 'rb'))
