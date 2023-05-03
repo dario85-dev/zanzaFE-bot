@@ -27,3 +27,4 @@ parenzoghiaccio - parenzoghiaccio
 meloni - meloni
 chepalle - chepalle
 chicacciaisoldi - chicacciaisoldi
+chapureragionequesto - chapureragionequesto
