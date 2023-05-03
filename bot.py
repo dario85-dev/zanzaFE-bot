@@ -112,7 +112,7 @@ def send_welcome(message):
     
 @bot.message_handler(commands=['cambiatoclima'])
 def send_welcome(message):
-    bot.send_voice(message.chat.id, open('audio/ecambiatoilclima.mp3', 'rb'))
+    bot.send_voice(message.chat.id, open('audio/ecambiatoilclimaschlein.mp3', 'rb'))
     
 @bot.message_handler(commands=['bambalau'])
 def send_welcome(message):
@@ -146,9 +146,9 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/staggente.mp3', 'rb'))
     
-@bot.message_handler(commands=['cambiatoilclima'])
+@bot.message_handler(commands=['cambiatoilclimaparenzo'])
 def send_welcome(message):
-    bot.send_voice(message.chat.id, open('audio/cambiatoilclima.mp3', 'rb'))
+    bot.send_voice(message.chat.id, open('audio/cambiatoilclimaparenzo.mp3', 'rb'))
     
 @bot.message_handler(commands=['chissene'])
 def send_welcome(message):
