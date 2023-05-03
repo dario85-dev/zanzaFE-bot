@@ -138,4 +138,20 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/chapureragionequesto.mp3', 'rb'))
     
+@bot.message_handler(commands=['pe'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/pe.mp3', 'rb'))
+    
+@bot.message_handler(commands=['staggente'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/staggente.mp3', 'rb'))
+    
+@bot.message_handler(commands=['cambiatoilclima'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/cambiatoilclima.mp3', 'rb'))
+    
+@bot.message_handler(commands=['chissene'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/chissene.mp3', 'rb'))
+    
 bot.polling()
