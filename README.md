@@ -1,42 +1,38 @@
 # zanzaFE-bot
 
-qualecitta - E in quale città
-beh - beh
-chicazzosei - Ma chi cazzo
-finiamola - finiamola
-friccica - friccica
-frocioni - frocioni
-haragione - haragione
-intervento - intervento
-parenzocombatti - parenzocombatti
-possibilissimo - possibilissimo
-ali - ali
-seicambiata - seicambiata
-sisisi - sisisi
-tonycasabianca - tonycasabianca
-vaiacagare - vaiacagare
-zittopino - zittopino
-ueue - ueue
-siaentrambe - siaentrambe
-perche - perche
-scek - scek
-parenzoruttato - parenzoruttato
-cambiatoclimaschlein - cambiatoclimaschlein
-bambalau - bambalau
-parenzoghiaccio - parenzoghiaccio
-meloni - meloni
-chepalle - chepalle
-chicacciaisoldi - chicacciaisoldi
-chapureragionequesto - chapureragionequesto
-pe - pe
-staggente - staggente
-cambiatoclimaparenzo - cambiatoclimaparenzo
-chissene - chissene
-finiamola - è ora di finiamola
-1vergogna - è una vergogna Brosio
-vergogna - vergogna vergogna vergogna Parenzo
-certo - certo vecchina
-sniffata - sniffata di Parenzo
-gates - Gattes
-sisisi - siii siii siii Parenzo
-
+- 1vergogna: è una vergogna Brosio
+- ali: ali
+- bambalau: bambalau
+- beh: beh
+- cambiatoclimaparenzo: cambiato clima Pparenzo
+- cambiatoclimaschlein: cambiato il clima Schlein
+- chapureragionequesto: chapureragionequesto
+- chepalle: chepalle
+- chicacciaisoldi: chicaccia i soldi
+- chicazzosei: Ma chi cazzo
+- chissene: chissene
+- finiamola: finiamola
+- finiamola: è ora di finiamola
+- friccica: friccica
+- frocioni: frocioni
+- gates: Gattes
+- haragione: haragione
+- intervento: intervento
+- meloni: meloni
+- parenzocombatti: Parenzo combatti
+- parenzoghiaccio: Parenzo ghiaccio
+- parenzoruttato: Parenzo ruttato
+- pe: pe
+- perche: perche
+- possibilissimo: possibilissimo
+- scek: scek
+- seicambiata: seicambiata
+- siaentrambe: siaentrambe
+- sniffata: sniffata di Parenzo
+- sisisi: siii siii siii Parenzo
+- staggente: staggente
+- tonycasabianca: tonycasabianca
+- uuee: ueue
+- vaiacagare: vaiacagare
+- vergogna: vergogna vergogna vergogna Parenzo
+- zittopino: zittopino
