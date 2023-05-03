@@ -1,8 +1,8 @@
 # zanzaFE-bot
 
-qualecitta - qualecitta
+qualecitta - E in quale città
 beh - beh
-chicazzosei - chicazzosei
+chicazzosei - Ma chi cazzo
 finiamola - finiamola
 friccica - friccica
 frocioni - frocioni
@@ -21,10 +21,14 @@ siaentrambe - siaentrambe
 perche - perche
 scek - scek
 parenzoruttato - parenzoruttato
-cambiatoclima - cambiatoclima
+cambiatoclimaschlein - cambiatoclimaschlein
 bambalau - bambalau
 parenzoghiaccio - parenzoghiaccio
 meloni - meloni
 chepalle - chepalle
 chicacciaisoldi - chicacciaisoldi
 chapureragionequesto - chapureragionequesto
+pe - pe
+staggente - staggente
+cambiatoclimaparenzo - cambiatoclimaparenzo
+chissene - chissene
