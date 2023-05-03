@@ -26,3 +26,4 @@ bambalau - bambalau
 parenzoghiaccio - parenzoghiaccio
 meloni - meloni
 chepalle - chepalle
+chicacciaisoldi - chicacciaisoldi

@@ -130,5 +130,8 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/chepalle.mp3', 'rb'))
 
-
+@bot.message_handler(commands=['chicacciaisoldi'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/chicacciaisoldi.mp3', 'rb'))
+    
 bot.polling()
