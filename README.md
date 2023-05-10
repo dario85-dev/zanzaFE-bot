@@ -1,6 +1,5 @@
 # zanzaFE-bot
 
-- 1vergogna: è una vergogna Brosio
 - ali: ali
 - bambalau: bambalau
 - beh: beh
@@ -11,27 +10,33 @@
 - chicacciaisoldi: chicaccia i soldi
 - chicazzosei: Ma chi cazzo
 - chissene: chissene
-- finiamola: finiamola
+- circonciso: Barbara D'Urso
+- diciamolo: diciamolo Cruciani
 - finiamola: è ora di finiamola
+- finiamola: finiamola
 - friccica: friccica
 - frocioni: frocioni
 - gates: Gattes
 - haragione: haragione
 - intervento: intervento
+- mascalzone: mascalzone professore
 - meloni: meloni
+- ottimo: ottimo Parenzo
 - parenzocombatti: Parenzo combatti
 - parenzoghiaccio: Parenzo ghiaccio
 - parenzoruttato: Parenzo ruttato
 - pe: pe
 - perche: perche
 - possibilissimo: possibilissimo
+- raccomandato: raccomandato scek
 - scek: scek
 - seicambiata: seicambiata
 - siaentrambe: siaentrambe
-- sniffata: sniffata di Parenzo
 - sisisi: siii siii siii Parenzo
+- sniffata: sniffata di Parenzo
 - staggente: staggente
 - tonycasabianca: tonycasabianca
+- unavergogna: vergogna Brosio
 - uuee: ueue
 - vaiacagare: vaiacagare
 - vergogna: vergogna vergogna vergogna Parenzo
