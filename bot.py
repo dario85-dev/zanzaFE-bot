@@ -188,25 +188,31 @@ def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/mascalzone.mp3', 'rb'))
     
     
-    @bot.message_handler(commands=['circonciso'])
+@bot.message_handler(commands=['circonciso'])
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/circonciso.mp3', 'rb'))
     
     
-    @bot.message_handler(commands=['ottimo'])
+@bot.message_handler(commands=['ottimo'])
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/ottimo.mp3', 'rb'))
     
     
-    @bot.message_handler(commands=['diciamolo'])
+@bot.message_handler(commands=['diciamolo'])
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/diciamolo.mp3', 'rb'))
     
 
-    @bot.message_handler(commands=['raccomandato'])
+@bot.message_handler(commands=['raccomandato'])
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/raccomandato.mp3', 'rb'))
     
 
+
+@bot.message_handler(commands=['machecazzo'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/machecazzo.mp3', 'rb'))
     
+
+
 bot.polling()

@@ -19,6 +19,7 @@
 - gates: Gattes
 - haragione: haragione
 - intervento: intervento
+- machecazzo: che cazzo di intervento eh Cruciani
 - mascalzone: mascalzone professore
 - meloni: meloni
 - ottimo: ottimo Parenzo
