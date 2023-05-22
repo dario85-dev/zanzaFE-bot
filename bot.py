@@ -213,6 +213,13 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/machecazzo.mp3', 'rb'))
     
+@bot.message_handler(commands=['si'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/si.mp3', 'rb'))
 
+@bot.message_handler(commands=['google'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/google.mp3', 'rb'))
+    
 
 bot.polling()

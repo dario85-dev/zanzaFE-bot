@@ -17,6 +17,7 @@
 - friccica: friccica
 - frocioni: frocioni
 - gates: Gattes
+- google: vai a vedere su guugle
 - haragione: haragione
 - intervento: intervento
 - machecazzo: che cazzo di intervento eh Cruciani
@@ -32,6 +33,7 @@
 - raccomandato: raccomandato scek
 - scek: scek
 - seicambiata: seicambiata
+- si: si Metrella
 - siaentrambe: siaentrambe
 - sisisi: siii siii siii Parenzo
 - sniffata: sniffata di Parenzo
