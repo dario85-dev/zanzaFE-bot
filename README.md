@@ -12,6 +12,7 @@
 - chissene: chissene
 - circonciso: Barbara D'Urso
 - diciamolo: diciamolo Cruciani
+- disgraziato: ma 6 1 disgraziato Cruciani
 - finiamola: è ora di finiamola
 - finiamola: finiamola
 - friccica: friccica
@@ -41,6 +42,7 @@
 - tonycasabianca: tonycasabianca
 - unavergogna: vergogna Brosio
 - uuee: ueue
+- uou: uou Crux
 - vaiacagare: vaiacagare
 - vergogna: vergogna vergogna vergogna Parenzo
 - zittopino: zittopino

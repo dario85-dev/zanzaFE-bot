@@ -222,4 +222,12 @@ def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/google.mp3', 'rb'))
     
 
+@bot.message_handler(commands=['disgraziato'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/disgraziato.mp3', 'rb'))
+
+@bot.message_handler(commands=['uou'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/uou.mp3', 'rb'))
+
 bot.polling()
