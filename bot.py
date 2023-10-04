@@ -230,4 +230,20 @@ def send_welcome(message):
 def send_welcome(message):
     bot.send_voice(message.chat.id, open('audio/uou.mp3', 'rb'))
 
+@bot.message_handler(commands=['nitrito'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/nitrito.mp3', 'rb'))
+
+@bot.message_handler(commands=['regolare'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/regolare.mp3', 'rb'))
+
+@bot.message_handler(commands=['chiudi'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/chiudi_corto.mp3', 'rb'))
+
+@bot.message_handler(commands=['fammelodire'])
+def send_welcome(message):
+    bot.send_voice(message.chat.id, open('audio/fammelo_dire.mp3', 'rb'))
+
 bot.polling()

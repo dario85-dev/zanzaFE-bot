@@ -10,9 +10,11 @@
 - chicacciaisoldi: chicaccia i soldi
 - chicazzosei: Ma chi cazzo
 - chissene: chissene
+- chiudi: chiudi Spatalo
 - circonciso: Barbara D'Urso
 - diciamolo: diciamolo Cruciani
 - disgraziato: ma 6 1 disgraziato Cruciani
+- fammelodire: fammelo dire Capezzone
 - finiamola: è ora di finiamola
 - finiamola: finiamola
 - friccica: friccica
@@ -24,6 +26,7 @@
 - machecazzo: che cazzo di intervento eh Cruciani
 - mascalzone: mascalzone professore
 - meloni: meloni
+- nitrito: nitrito
 - ottimo: ottimo Parenzo
 - parenzocombatti: Parenzo combatti
 - parenzoghiaccio: Parenzo ghiaccio
@@ -32,6 +35,7 @@
 - perche: perche
 - possibilissimo: possibilissimo
 - raccomandato: raccomandato scek
+- regolare: regolare Nevio lo stirato
 - scek: scek
 - seicambiata: seicambiata
 - si: si Metrella
